@@ -22,10 +22,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '2062193742:AAEQbg5PG24kRkUpxnwhhXs90q-0P_Z
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/94c74580a918cb9e6b18e.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/94c74580a918cb9e6b18e.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/94c74580a918cb9e6b18e.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/229b746a9efacb4245b53.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/800e0ebc82caff08673ab.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/800e0ebc82caff08673ab.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/800e0ebc82caff08673ab.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/800e0ebc82caff08673ab.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '794968418').split()]
@@ -50,8 +50,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Others
 
 VERIFY = bool(environ.get('VERIFY', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'atglinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '12fa03d33c760854e5249b00d0ea0adff7736729')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omegalinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '746f91985ece962a2fe2436976cfec40da545a95')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1001818118297').split()]
 PORT = environ.get("PORT", "8080")
