@@ -915,13 +915,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/moviesss4ers'),
-                    InlineKeyboardButton('Group 👀', url='https://t.me/moviei43')
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/SkymoviesHDX'),
+                    InlineKeyboardButton('Owner 👀', url='t.me/Loki_X1')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Link_Reporter_Bot')
+                    InlineKeyboardButton('Any Queries DM Here ✅',url='t.me/Loki_X1')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
