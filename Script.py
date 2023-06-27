@@ -8,11 +8,12 @@ Cᴏɴᴛᴀᴄᴛ- @Syrus_143_Hpy
 
 Cʜᴇᴄᴋ Tʜᴇꜱᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs 👇.</b>"""
 
-    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Syrus_143_hpy><b>亗 THE SAN∂MAN </b></a>\n
+    ABOUT_TXT = """<b><i>😎 ᴏᴡɴᴇʀ : <a href=https://t.me/Loki_X1><b>亗 THE LOKI </b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/syrus_143_hpy><b>亗 THE SAN∂MAN</b></a>\n  
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=vultr.com><b>ᴠᴘꜱ</b></a>\n
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/Filmy_Men><b>ғɪʟᴍʏ ᴍᴇɴ</b></a>\n
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/SkymoviesHDX><b>sᴋʏᴍᴏᴠɪᴇsʜᴅ</b></a>\n
 """
 
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
@@ -100,7 +101,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 
-★ Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/Syrus_143_hpy><b>亗 THE SAN∂MAN</b></a>"""
+★ ᴍᴀɪɴᴛᴀɪɴᴇʀ 亗 @Fm_Onr</b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -176,9 +177,7 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 
 ╔═ ❁ ════════╗
 
-♡ <a href=https://t.me/Filmy_Men> @Filmy_Men</a>
-
-♡ <a href=https://t.me/Filmy_Rog>@Filmy_Rog </a>
+♡ <a href=https://t.me/SkymoviesHDX> @SkymoviesHDX</a>
 
 ╚════════ ❁ ═╝</b>"""
 
