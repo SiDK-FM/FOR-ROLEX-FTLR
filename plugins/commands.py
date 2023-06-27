@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs ✨', url='https://t.me/Filmy_men')
+                InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs ✨', url='https://t.me/SkymoviesHDX')
             ],
             [
                 InlineKeyboardButton('ℹ️ ʜᴇʟᴘ 💕', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💕 ᴄʜᴀɴɴᴇʟ ✨', url='https://t.me/Filmy_men'),
-                    InlineKeyboardButton('💖 ɢʀᴏᴜᴘ 🌺', url='https://t.me/Filmy_rog')
+                    InlineKeyboardButton('💕 ᴄʜᴀɴɴᴇʟ ✨', url='https://t.me/SkymoviesHDX'),
+                    InlineKeyboardButton('💖 ᴏᴡɴᴇʀ 🌺', url='https://t.me/Loki_X1')
                 ],[
                     InlineKeyboardButton('💞 ʜᴇʟᴘ 💕', callback_data='help'),
                                          
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💕 ᴄʜᴀɴɴᴇʟ ✨', url='https://t.me/filmy_men'),
-                    InlineKeyboardButton('🌺 ɢʀᴏᴜᴘ 💖', url='https://t.me/filmy_rog')
+                    InlineKeyboardButton('💕 ᴄʜᴀɴɴᴇʟ ✨', url='https://t.me/SkymoviesHDX'),
+                    InlineKeyboardButton('🌺 ᴏᴡɴᴇʀ 💖', url='https://t.me/Loki_X1')
                 ],[
                     InlineKeyboardButton('✨ ʜᴇʟᴘ 🛐', callback_data='help'),
                     InlineKeyboardButton('☺ ᴀʙᴏᴜᴛ ᴍᴇ 🙈', callback_data='about')
@@ -150,7 +150,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/moviesss4ers')
+                          InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 🎬', url='https://t.me/SkymoviesHDX')
                          ]
                         ]
                     )
@@ -166,7 +166,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/filmy_men')
+                          InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/SkymoviesHDX')
                          ]
                         ]
                     )
@@ -234,7 +234,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('ᴊᴏɪɴ ғᴏ𝟺 ᴍᴏʀᴇ 🎬', url='https://t.me/filmy_men')
+                      InlineKeyboardButton('ᴊᴏɪɴ ғᴏ𝟺 ᴍᴏʀᴇ 🎬', url='https://t.me/SkymoviesHDX')
                      ]
                     ]
                 )
@@ -274,7 +274,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/filmy_men')
+              InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/SkymoviesHDX')
              ]
             ]
         )
